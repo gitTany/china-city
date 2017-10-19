@@ -1,5 +1,5 @@
 # 中国大陆 省 - 市 - 区县 - 社区 四级数据
-
+数据来源：http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2016/index.html
 在网上找到很多的省市区县的数据中四个直辖市（北京、上海、天津、重庆）的数据都是如下这样
 
 > 北京市 - 北京市 - 东城区
@@ -20,7 +20,7 @@ all-lv3.json 省-市-区县 三级数据包。
 
 all-lv4.json 省-市-区县-社区 四级数据包。
 
-数据来源：http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2016/index.html
+
 
 
 ## 重要说明
