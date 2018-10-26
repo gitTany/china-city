@@ -73,8 +73,3 @@ CREATE TABLE `china_city` (
 ## 重要说明
 + 北京 、天津 、上海、重庆 四个直辖市 的 二级数据为 区，三级数据为 街道，四级数据为 社区。
 + 省中的 直辖县 数据合并为二级数据。
-
-
-#### 看我整理的这么辛苦，如果对您有用，就赏我一杯咖啡吧
-![支付宝打赏](http://octk4wj3v.bkt.clouddn.com/get-money-zhifubao.jpg-dashang "支付宝打赏")
-![微信打赏](http://octk4wj3v.bkt.clouddn.com/get-money-weixin.jpg-dashang "微信打赏")
